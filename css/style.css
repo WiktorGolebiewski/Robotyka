@@ -135,6 +135,10 @@ li a {
 	height: 400px;
 	color: #fff;
 }
+a.social {
+	text-decoration: none;
+	color: #fff;
+}
 
 .yt {
 	width: 100px;
